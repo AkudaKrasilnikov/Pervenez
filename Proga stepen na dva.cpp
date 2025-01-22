@@ -25,8 +25,3 @@ int main() {
     cout << o;
 }
 
-
-
-
-
-
